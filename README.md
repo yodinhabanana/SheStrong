@@ -21,7 +21,7 @@ Criar uma ferramenta que incentive o treino constante e o autocuidado, promovend
 - **Banco de Dados:** Firebase / SQLite (dependendo da arquitetura final)  
 
 ## 💜 Público-alvo
-Mulheres que desejam treinar com consistência, confiança e propósito — seja na academia ou no conforto de casa.
+Mulheres que desejam treinar com consistência, confiança e propósito, seja na academia ou no conforto de casa.
 
 ## Status
 Em desenvolvimento...
