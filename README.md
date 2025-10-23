@@ -23,8 +23,8 @@ Criar uma ferramenta que incentive o treino constante e o autocuidado, promovend
 ## 💜 Público-alvo
 Mulheres que desejam treinar com consistência, confiança e propósito — seja na academia ou no conforto de casa.
 
-## 🚀 Status
-Em desenvolvimento 👩‍💻 
+## Status
+Em desenvolvimento...
 
 ## Desenvolvedores:
 - Mariana Pereira Lucas: [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/yodinhabanana)
