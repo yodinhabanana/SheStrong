@@ -26,7 +26,6 @@ Mulheres que desejam treinar com consistência, confiança e propósito — seja
 ## 🚀 Status
 Em desenvolvimento 👩‍💻 
 
-##Desenvolvedores:
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/seuusuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
-
+## Desenvolvedores:
+- Mariana Pereira Lucas: [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/yodinhabanana)
+- Gustavo Pereira de Souza: [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/gustavodeque)
