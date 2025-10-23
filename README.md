@@ -24,4 +24,9 @@ Criar uma ferramenta que incentive o treino constante e o autocuidado, promovend
 Mulheres que desejam treinar com consistência, confiança e propósito — seja na academia ou no conforto de casa.
 
 ## 🚀 Status
-Em desenvolvimento 👩‍💻  
+Em desenvolvimento 👩‍💻 
+
+##Desenvolvedores:
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
+
