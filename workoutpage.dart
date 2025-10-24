@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'workoutpage.dart';
 
-class HomeScreen extends StatelessWidget {
-  const HomeScreen({super.key});
+class WorkoutPage extends StatelessWidget {
+  const WorkoutPage({super.key});
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -14,17 +13,18 @@ class HomeScreen extends StatelessWidget {
             fontWeight: FontWeight.bold,
             color: Color.fromARGB(255, 255, 255, 255),
           ),
-        ), // app name
+        ),
         centerTitle: true,
-        backgroundColor: const Color.fromARGB(255, 0, 0, 0), // theme color
+        backgroundColor: const Color.fromARGB(255, 0, 0, 0),
       ),
+
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             Text(
-              'Welcome to StrongFella!',
+              'Create a workout plan',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
@@ -34,36 +34,17 @@ class HomeScreen extends StatelessWidget {
             ),
 
             SizedBox(height: 20),
-            ElevatedButton(
-              onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => const WorkoutPage()),
-                );
-              },
-              style: ElevatedButton.styleFrom(
-                backgroundColor: const Color.fromARGB(255, 3, 3, 3),
-                padding: EdgeInsets.symmetric(vertical: 16),
-              ),
-              child: Text('Workout Plans', style: TextStyle(
-                fontSize: 20,
-                fontWeight: FontWeight.bold,
-                color: Color.fromARGB(255, 255, 255, 255),
-              ),
-            ),
-          ),
 
-            SizedBox(height: 10),
             ElevatedButton(
-              onPressed: () {
-                // Navigate to progress screen
-              },
+              onPressed: () {},
               style: ElevatedButton.styleFrom(
                 backgroundColor: const Color.fromARGB(255, 0, 0, 0),
                 padding: EdgeInsets.symmetric(vertical: 16),
               ),
-              child: Text('View Progress', style: TextStyle(
-                  fontSize: 20,
+              child: Text(
+                'New workout plan',
+                style: TextStyle(
+                  fontSize: 24,
                   fontWeight: FontWeight.bold,
                   color: Color.fromARGB(255, 255, 255, 255),
                 ),
