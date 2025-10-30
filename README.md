@@ -21,7 +21,7 @@ Criar uma ferramenta que incentive o treino constante e o autocuidado, promovend
 - **Gerenciamento de Estado:** Provider / Riverpod (a definir)  
 - **Banco de Dados:** Firebase / SQLite (dependendo da arquitetura final)  
 
-## 💜 Público-alvo
+## Público-alvo
 Pessoas que desejam treinar com consistência, confiança e propósito, seja na academia ou no conforto de casa.
 
 ## Status
