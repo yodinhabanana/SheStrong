@@ -29,5 +29,5 @@ Em desenvolvimento...
 
 ## Desenvolvedores:
 - Mariana Pereira Lucas: [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/yodinhabanana)
-- Gustavo Pereira de Souza: [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/gustavodeque)
+- Gustavo de Souza Pereira: [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/gustavodeque)
 - Guilherme Fabricio (GuiDev):
