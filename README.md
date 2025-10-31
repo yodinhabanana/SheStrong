@@ -1,7 +1,8 @@
 # StrongFella
 
-SheStrong é um projeto para desenvolvimento de aplicativo de treinos para pessoas que buscam saúde, força e bem-estar.  
+StrongFella é um projeto para desenvolvimento de aplicativo de treinos para pessoas que buscam saúde, força e bem-estar.  
 A proposta é oferecer uma plataforma simples, motivadora e acessível para acompanhar treinos, metas e progresso físico.
+Link pro protótipo no Figma: https://www.figma.com/proto/CqOovhAKQklOSvL95fNeo7/Untitled?page-id=0%3A1&node-id=1-552&p=f&viewport=318%2C88%2C0.25&t=3cKHTdSvNcNm4SqI-1&scaling=scale-down&content-scaling=fixed
 
 ## Objetivo
 Criar uma ferramenta que incentive o treino constante e o autocuidado, promovendo a autonomia na jornada fitness.
