@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'home.dart'; // your HomeScreen file
+import 'welcome.dart';
 
 void main() {
   runApp(const SheStrongApp());
@@ -13,10 +13,8 @@ class SheStrongApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'SheStrong',
-      theme: ThemeData(
-        primarySwatch: Colors.pink,
-      ),
-      home: const HomeScreen(), // your home screen
+      theme: ThemeData(primarySwatch: Colors.pink),
+      home: const WelcomeScreen(), // your home screen
     );
   }
 }
